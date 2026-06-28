@@ -1,4 +1,4 @@
-8428
+8451
 130C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\@parcel\transformer-svg134271172013830847 1
 64C:\Projects\promise-hw\node_modules\semver\functions\truncate.js134271151871973685 0
 43C:\Projects\promise-hw\node_modules\globals134271151870063679 1
@@ -25,7 +25,7 @@
 125C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\slash\package.json134271172026950867 0
 84C:\Projects\promise-hw\node_modules\@swc\helpers\_\_object_spread_props\package.json134271151874703683 0
 56C:\Projects\promise-hw\node_modules\gh-pages\lib\util.js134271155046745230 0
-27C:\Projects\promise-hw\dist134271175607309549 1
+27C:\Projects\promise-hw\dist134271179095191036 1
 63C:\Projects\promise-hw\node_modules\@parcel\plugin\package.json134271151869793680 0
 44C:\Projects\promise-hw\node_modules\msgpackr134271151872103691 1
 35C:\Projects\promise-hw\node_modules134271171981611208 1
@@ -40,7 +40,7 @@
 78C:\Projects\promise-hw\node_modules\@parcel\utils\test\input\config\config.cjs134271151869923676 0
 49C:\Projects\promise-hw\node_modules\slash\license134271155046605238 0
 62C:\Projects\promise-hw\node_modules\@parcel\core\src\Parcel.js134271151872973676 0
-35C:\Projects\promise-hw\package.json134271155047945249 0
+35C:\Projects\promise-hw\package.json134271178496371325 0
 54C:\Projects\promise-hw\node_modules\async\anySeries.js134271155046725227 0
 75C:\Projects\promise-hw\node_modules\@parcel\watcher\src\wasm\WasmBackend.hh134271151871833678 0
 109C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\80134271173844161755 1
@@ -77,7 +77,7 @@
 44C:\Projects\promise-hw\node_modules\has-flag134271151869813675 1
 68C:\Projects\promise-hw\node_modules\regenerator-runtime\package.json134271151869743677 0
 66C:\Projects\promise-hw\node_modules\@swc\helpers\esm\_ts_values.js134271151873763683 0
-37C:\Projects\promise-hw\src\index.html134271175317827413 0
+37C:\Projects\promise-hw\src\index.html134271178866303586 0
 144C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\.bin\node-gyp-build-optional-packages134271172006055302 0
 61C:\Projects\promise-hw\node_modules\browserslist\package.json134271151870303677 0
 55C:\Projects\promise-hw\node_modules\regenerator-runtime134271151869873680 1
@@ -87,7 +87,7 @@
 57C:\Projects\promise-hw\node_modules\has-flag\package.json134271151868943682 0
 120C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\async\each.js134271172018870856 0
 61C:\Projects\promise-hw\node_modules\@parcel\core\lib\requests134271151873963688 1
-34C:\Projects\promise-hw\src\main.js134271173427543799 0
+34C:\Projects\promise-hw\src\main.js134271177778989601 0
 95C:\Projects\promise-hw\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_stat.c134271151872423677 0
 53C:\Projects\promise-hw\node_modules\make-dir\index.js134271155046485224 0
 138C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\caniuse-lite\data\regions\AF.js134271172021420846 0
@@ -1572,7 +1572,7 @@
 49C:\Projects\promise-hw\node_modules\async\each.js134271155047185231 0
 108C:\Projects\promise-hw\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib\process.js134271151870143675 0
 63C:\Projects\promise-hw\node_modules\fast-glob\out\utils\path.js134271155047015235 0
-109C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\FETCH_HEAD134271173844821736 0
+109C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\FETCH_HEAD134271175694586503 0
 154C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\@parcel\core\test\fixtures\context\package.json134271172007575311 0
 105C:\Projects\promise-hw\node_modules\@parcel\package-manager\test\fixtures\packages\peers-2.0\package.json134271151871893680 0
 56C:\Projects\promise-hw\node_modules\pkg-dir\package.json134271155046415226 0
@@ -1979,6 +1979,7 @@
 55C:\Projects\promise-hw\node_modules\micromatch\index.js134271155046485224 0
 51C:\Projects\promise-hw\node_modules\is-glob\LICENSE134271151868963670 0
 153C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\caniuse-lite\data\features\css-mediaqueries.js134271172019950852 0
+148C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\60\272433fd2513c9972b41faceee4a59556ea927134271175617683850 0
 52C:\Projects\promise-hw\node_modules\lmdb\src\txn.cpp134271151873173680 0
 133C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\nullthrows\nullthrows.d.ts134271172026230861 0
 60C:\Projects\promise-hw\node_modules\locate-path\package.json134271155046395233 0
@@ -2289,6 +2290,7 @@
 70C:\Projects\promise-hw\node_modules\lmdb\dependencies\lz4\lib\xxhash.c134271151873043683 0
 162C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\@parcel\core\test\fixtures\invalid-engines\package.json134271172007625307 0
 153C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\@parcel\core\src\registerCoreWithSerializer.js134271172007375300 0
+109C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\69134271175617443838 1
 72C:\Projects\promise-hw\node_modules\@swc\helpers\src\_inherits_loose.mjs134271151875383688 0
 143C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\@parcel\bundler-default\package.json134271172006665398 0
 149C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\@parcel\transformer-babel\src\constants.js134271172013340854 0
@@ -2600,6 +2602,7 @@
 132C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\@parcel\fs\lib\types.d.ts134271172008179949 0
 53C:\Projects\promise-hw\node_modules\base-x\LICENSE.md134271151869593709 0
 77C:\Projects\promise-hw\node_modules\caniuse-lite\data\features\flexbox-gap.js134271151876003682 0
+109C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\d1134271175617533922 1
 61C:\Projects\promise-hw\node_modules\fs-extra\lib\move\move.js134271155047065235 0
 66C:\Projects\promise-hw\node_modules\@parcel\codeframe\package.json134271151871343678 0
 67C:\Projects\promise-hw\node_modules\caniuse-lite\data\regions\TV.js134271151881873687 0
@@ -3375,6 +3378,7 @@
 92C:\Projects\promise-hw\node_modules\@parcel\utils\test\input\sourcemap\referenced-min.js.map134271151872703676 0
 81C:\Projects\promise-hw\node_modules\caniuse-lite\data\features\async-clipboard.js134271151871983677 0
 132C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\@swc\types\assumptions.js134271172018660853 0
+148C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\14\9d2eb436e42790a0df34c06c97a0684115e6cb134271175617323831 0
 75C:\Projects\promise-hw\node_modules\caniuse-lite\data\features\atob-btoa.js134271151872073683 0
 69C:\Projects\promise-hw\node_modules\@parcel\core\lib\public\Bundle.js134271151871753683 0
 132C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\email-addresses\README.md134271172023120857 0
@@ -3715,6 +3719,7 @@
 76C:\Projects\promise-hw\node_modules\caniuse-lite\data\features\nav-timing.js134271151879253695 0
 84C:\Projects\promise-hw\node_modules\caniuse-lite\data\features\insertadjacenthtml.js134271151877533686 0
 81C:\Projects\promise-hw\node_modules\@swc\helpers\cjs\_assert_this_initialized.cjs134271151870533683 0
+109C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\60134271175617693850 1
 89C:\Projects\promise-hw\node_modules\caniuse-lite\data\features\intersectionobserver-v2.js134271151877553678 0
 143C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\@parcel\diagnostic\src\diagnostic.js134271172007874614 0
 86C:\Projects\promise-hw\node_modules\caniuse-lite\data\features\intersectionobserver.js134271151877553678 0
@@ -3825,6 +3830,7 @@
 66C:\Projects\promise-hw\node_modules\@parcel\core\src\assetUtils.js134271151871673682 0
 72C:\Projects\promise-hw\node_modules\caniuse-lite\data\features\run-in.js134271151880633682 0
 87C:\Projects\promise-hw\node_modules\@swc\helpers\src\_unsupported_iterable_to_array.mjs134271151875883698 0
+148C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\46\6cd52faac28ddb100cdc0028018915620c935b134271175617693850 0
 70C:\Projects\promise-hw\node_modules\@parcel\node-resolver-core\LICENSE134271151868973681 0
 80C:\Projects\promise-hw\node_modules\caniuse-lite\data\features\scrollintoview.js134271151880863695 0
 70C:\Projects\promise-hw\node_modules\caniuse-lite\data\features\sdch.js134271151880893694 0
@@ -3877,7 +3883,7 @@
 72C:\Projects\promise-hw\node_modules\caniuse-lite\data\features\tls1-2.js134271151881773687 0
 72C:\Projects\promise-hw\node_modules\caniuse-lite\data\features\tls1-3.js134271151881773687 0
 66C:\Projects\promise-hw\node_modules\@parcel\watcher\src\Backend.hh134271151871463688 0
-98C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git134271173845721863 1
+98C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git134271175695529352 1
 78C:\Projects\promise-hw\node_modules\caniuse-lite\data\features\transforms3d.js134271151881833696 0
 63C:\Projects\promise-hw\node_modules\@parcel\workers\lib\threads134271151871933684 1
 159C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\caniuse-lite\data\features\viewport-unit-variants.js134271172021210865 0
@@ -5476,6 +5482,7 @@
 69C:\Projects\promise-hw\node_modules\@parcel\fs\test\OverlayFS.test.js134271151870833678 0
 159C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\@parcel\core\test\fixtures\library-custom-scopehoist134271172007685322 1
 62C:\Projects\promise-hw\node_modules\@parcel\fs\src\MemoryFS.js134271151870473685 0
+148C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\79\4a6d959827a47771861bd5e51b53e88b9a87f6134271175617653842 0
 60C:\Projects\promise-hw\node_modules\@parcel\fs\src\NodeFS.js134271151870683688 0
 150C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\caniuse-lite\data\features\css-clip-path.js134271172019760854 0
 111C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\pack134271172005845330 1
@@ -5773,6 +5780,7 @@
 73C:\Projects\promise-hw\node_modules\@lmdb\lmdb-win32-x64\node.abi108.node134271151870393682 0
 72C:\Projects\promise-hw\node_modules\@lmdb\lmdb-win32-x64\node.abi93.node134271151871123686 0
 69C:\Projects\promise-hw\node_modules\@lmdb\lmdb-win32-x64\package.json134271151869113677 0
+109C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\14134271175617333836 1
 66C:\Projects\promise-hw\node_modules\@lmdb\lmdb-win32-x64\README.md134271151869453674 0
 123C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\async\memoize.js134271172019150844 0
 45C:\Projects\promise-hw\node_modules\@lezer\lr134271151870483694 1
@@ -6908,6 +6916,7 @@
 138C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\caniuse-lite\data\regions\SL.js134271172022440854 0
 138C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\caniuse-lite\data\regions\SO.js134271172022460851 0
 138C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\caniuse-lite\data\regions\ST.js134271172022470860 0
+148C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\e3\eca1ecf53aad469c1843ba209bd10bad7339da134271175617373848 0
 138C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\caniuse-lite\data\regions\SY.js134271172022470860 0
 138C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\caniuse-lite\data\regions\TC.js134271172022480853 0
 153C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\@swc\helpers\cjs\_async_generator_delegate.cjs134271172017520856 0
@@ -7570,7 +7579,7 @@
 137C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\@swc\helpers\src\_inherits.mjs134271172018470854 0
 139C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\@parcel\transformer-html\LICENSE134271172013430859 0
 156C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\@swc\helpers\src\_initializer_define_property.mjs134271172018470854 0
-118C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\refs\remotes\origin134271173844821736 1
+118C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\refs\remotes\origin134271175694586503 1
 139C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\@swc\helpers\src\_instanceof.mjs134271172018480851 0
 152C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\@swc\helpers\src\_interop_require_default.mjs134271172018480851 0
 153C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\@swc\helpers\src\_interop_require_wildcard.mjs134271172018490853 0
@@ -7593,6 +7602,7 @@
 141C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\@swc\helpers\src\_to_primitive.mjs134271172018580854 0
 149C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\@swc\helpers\src\_ts_dispose_resources.mjs134271172018590860 0
 133C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\@nodelib\fs.walk\README.md134271172006555318 0
+148C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\41\4e2e411abd8e789f928baf29c2652b87080a06134271175617233682 0
 137C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\@swc\helpers\src\_ts_param.mjs134271172018600854 0
 165C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\@swc\helpers\src\_ts_rewrite_relative_import_extension.mjs134271172018600854 0
 138C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\@swc\helpers\src\_using_ctx.mjs134271172018630848 0
@@ -7601,6 +7611,7 @@
 136C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\@swc\helpers\scripts\build.js134271172018300855 0
 137C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\@swc\helpers\scripts\errors.js134271172018300855 0
 132C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\@swc\helpers\esm\index.js134271172018280860 0
+148C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\b1\3007b94249fac3c7e04579062179ce7666da32134271175617633995 0
 145C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\@swc\helpers\esm\_apply_decs_2203_r.js134271172017880859 0
 161C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\@parcel\core\test\fixtures\targets-default-distdir-one134271172007815319 1
 144C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\node_modules\@swc\helpers\esm\_array_with_holes.js134271172017890854 0
@@ -8336,41 +8347,53 @@
 116C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.parcel-cache\lock.mdb134271172005925324 0
 105C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\config134271172005845330 0
 110C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\description134271171986931112 0
-103C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\HEAD134271173845721863 0
+103C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\HEAD134271175695529352 0
 104C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\hooks134271171986971109 1
 104C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\index134271172036475427 0
 103C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\info134271171986981108 1
-106C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects134271173844951829 1
+106C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects134271175694746530 1
 103C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\refs134271172005745360 1
 109C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\refs\heads134271172005835330 1
 108C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\refs\tags134271171991201102 1
 123C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\refs\remotes\origin\HEAD134271172005755336 0
-123C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\refs\remotes\origin\main134271173844801740 0
+123C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\refs\remotes\origin\main134271175617893860 0
 114C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\refs\heads\main134271172005815342 0
 109C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\06134271173844331730 1
 109C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\12134271173844471737 1
 109C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\3b134271173844181745 1
+109C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\41134271175617323831 1
 109C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\42134271173844351741 1
+109C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\46134271175617703854 1
+109C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\54134271175617433839 1
+109C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\58134271175617673845 1
 109C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\5e134271173844491738 1
 109C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\6a134271173844141749 1
 109C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\74134271173844321742 1
-109C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\79134271173844571735 1
+109C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\79134271175617663848 1
 109C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\90134271173844451745 1
 109C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\a9134271173844271745 1
 109C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\af134271173844481736 1
+109C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\b1134271175617643842 1
 109C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\be134271173844531738 1
 109C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\dc134271173844541739 1
+109C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\e3134271175617373848 1
 109C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\f4134271173844511738 1
+109C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\f8134271175617363832 1
 111C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\info134271171987031104 1
 161C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\pack\pack-4b9b53a150db19fb0119c2ee9d9d7b48eb811a36.idx134271172005279335 0
 148C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\fd\11975f6bacd1354b4ef18e41c65b0cd2d4fee5134271173844551738 0
+148C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\f8\b4682bbbe54b09a737e8c0d280fc5d21e9bc43134271175617353837 0
 148C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\dc\8ce316bfd7d141ffe1bbea54ee29189c132d96134271173844531738 0
+148C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\d1\3b3968c705e4ba6ce2fd2d02418e26252bfbb2134271175617523846 0
 148C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\be\b596ff6afc33cfa0b031dac13b6c7fc98e3dc2134271173844511738 0
 148C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\af\f6cf10778fa59b25a65b7e0060071e4e3de89b134271173844471737 0
 148C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\90\af9454d23762e4686547bda7c2cc6e78814950134271173844431820 0
 148C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\79\6e160d05ed39376a8a6e952e0a77e8c15f5b46134271173844571735 0
 148C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\6a\870325bc7374284007c330761f2e7f375f1fa4134271173844131741 0
+148C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\69\242ca90a78343fd4da53ae32fbc4f9088dce1e134271175617443838 0
 148C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\5e\2afeb7bae814d87df506ef6e494320f1b4821c134271173844481736 0
+148C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\58\181f7490cf99505892cc8911580680b8e8db43134271175617673845 0
+148C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\54\22f41f8cb9fbd33ba679226e0bd12550cb4c68134271175617423974 0
 148C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\3b\2e1bbfc172dd86e49388d78fd39a013e2557f4134271173844171742 0
 148C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\13\c41121e0d2e23cca1224c949724a533049f449134271173844231743 0
 148C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\objects\12\3ee799759e39b563278fd2267b0db1e6c5699c134271173844461750 0
@@ -8380,7 +8403,7 @@
 114C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\logs\refs\heads134271172005825333 1
 116C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\logs\refs\remotes134271172005765331 1
 128C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\logs\refs\remotes\origin\HEAD134271172005765331 0
-128C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\logs\refs\remotes\origin\main134271173844811740 0
+128C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\logs\refs\remotes\origin\main134271175617903952 0
 119C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\logs\refs\heads\main134271172005825333 0
 111C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\info\exclude134271171986981108 0
 126C:\Projects\promise-hw\node_modules\.cache\gh-pages\https!github.com!Kolya4954!promise-hw.git\.git\hooks\applypatch-msg.sample134271171986941105 0
@@ -8421,7 +8444,7 @@
 63C:\Projects\promise-hw\node_modules\.bin\update-browserslist-db134271151882803690 0
 67C:\Projects\promise-hw\node_modules\.bin\update-browserslist-db.cmd134271151882803690 0
 67C:\Projects\promise-hw\node_modules\.bin\update-browserslist-db.ps1134271151882803690 0
-38C:\Projects\promise-hw\dist\index.html134271175607309549 0
+38C:\Projects\promise-hw\dist\index.html134271179095180957 0
 54C:\Projects\promise-hw\dist\promise-hw.1fcc916e.js.map134271173379947507 0
 51C:\Projects\promise-hw\dist\promise-hw.2cdaf7bc.css134271173380017479 0
 55C:\Projects\promise-hw\dist\promise-hw.2cdaf7bc.css.map134271173380037477 0
