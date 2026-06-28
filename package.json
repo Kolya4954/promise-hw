@@ -22,7 +22,9 @@
   },
   "homepage": "https://github.com/Kolya4954/promise-hw",
   "dependencies": {
-    "gh-pages": "^6.3.0",
     "parcel": "^2.16.4"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
